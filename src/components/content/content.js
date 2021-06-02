@@ -1,6 +1,6 @@
 import { useParams } from "react-router";
-import MyImage from "../Assets/img385.png";
-import DefaultImage from "../Assets/user.svg";
+import MyImage from "../../Assets/img385.png";
+import DefaultImage from "../../Assets/user.svg";
 
 function Content() {
   const { channelID } = useParams();

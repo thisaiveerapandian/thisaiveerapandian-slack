@@ -1,5 +1,5 @@
 import React from "react";
-import MyImage from "../Assets/img385.png";
+import MyImage from "../../Assets/img385.png";
 import styled from "styled-components";
 
 const Activespan = styled.span`

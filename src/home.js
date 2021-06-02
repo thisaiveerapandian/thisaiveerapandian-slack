@@ -1,8 +1,8 @@
 import React from "react";
 import { Route, Switch } from "react-router";
-import Content from "./components/content";
-import Header from "./components/header";
-import Sidebar from "./components/sidebar";
+import Content from "./components/content/content";
+import Header from "./components/header/header";
+import Sidebar from "./components/sidebar/sidebar";
 
 function Home() {
   return (
